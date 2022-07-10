@@ -1,0 +1,22 @@
+#pontos1,
+#pontos2 {
+	font-family: Arial;
+	font-size: 12pt;
+	margin-left: 50px;
+}
+
+#aviso {
+	font-family: Arial;
+	font-size: 12pt;
+	text-align: center;
+}
+
+section {
+	display: flex;
+	justify-content: center;
+	margin-top: 150px;
+}
+
+canvas {
+	border: 1px solid black;
+}
